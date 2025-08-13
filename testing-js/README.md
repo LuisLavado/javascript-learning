@@ -7,11 +7,8 @@ Prueba toda la funcionalidad de una API con integración de servicios internos u
 1. **[¿Qué es el testing?](./topics/1-1-what-is-testing.md)**
 2. **[Tu primer test](./topics/1-2-your-first-test.md)**
 3. **[Pruebas estáticas](./topics/1-3-static-tests.md)**
-
-### Escribiendo pruebas
-8. **Assertions / matchers**
-9. **Setup and Teardown**
-10. **Implementado Setup**
+4. **[Assertions / matchers, Setup and Teardown](./topics/1-4-assertions.md)**
+5. **[Implementado Setup](./topics/1-5-setup-implemented.md)**
 11. **Tipos de pruebas**
 12. **Metodologías**
 
