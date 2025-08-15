@@ -5,46 +5,33 @@ Prueba toda la funcionalidad de una API con integración de servicios internos u
 
 ### Introduccion
 1. **[¿Qué es el testing?](./topics/1-1-what-is-testing.md)**
+
 2. **[Tu primer test](./topics/1-2-your-first-test.md)**
+
 3. **[Pruebas estáticas](./topics/1-3-static-tests.md)**
+
 4. **[Assertions / matchers, Setup and Teardown](./topics/1-4-assertions.md)**
+
 5. **[Implementado Setup](./topics/1-5-setup-implemented.md)**
-11. **Tipos de pruebas**
-12. **Metodologías**
+
+6. **[Tipos de pruebas](./topics/1-6-types-of-tests.md)**
+
+7. **[Metodologías](./topics/1-7-methodologies.md)**
 
 ### Pruebas Unitarias
-13
-Pruebas unitarias
-Pruebas unitarias
-Completado
-14
-Coverage report
-Coverage report
-Completado
-15
-Instalación de Docker en Windows, macOS y Ubuntu
-Completado
-16
-Proyecto de API
-Proyecto de API
-Completado
-17
-Mocking, Stub, doubles
-Mocking, Stub, doubles
-Completado
-18
-Mocking
-Mocking
-Completado
-19
-Spies
-Spies
-Completado
-20
-Generando Fake Books
-Generando Fake Books
-Completado
-Integration Test & E2E
+8. **[Pruebas unitarias](./topics/2-1-unit-tests.md)**
+
+9. [Proyecto de API](./2-2-api-project.md)
+
+17. Mocking, Stub, doubles
+
+18. Mocking
+
+19. Spies
+
+20. Generando Fake Books
+
+### Integration Test & E2E
 21
 Configurando supertest en el API
 Configurando supertest en el API
