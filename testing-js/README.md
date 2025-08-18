@@ -21,9 +21,9 @@ Prueba toda la funcionalidad de una API con integración de servicios internos u
 ### Pruebas Unitarias
 8. **[Pruebas unitarias](./topics/2-1-unit-tests.md)**
 
-9. [Proyecto de API](./2-2-api-project.md)
+9. **[Proyecto de API](./topics/2-2-api-project.md)**
 
-17. Mocking, Stub, doubles
+10. **[Mocking, Stub, doubles](./topics/2-3-mocking-stub-doubles.md)**
 
 18. Mocking
 
