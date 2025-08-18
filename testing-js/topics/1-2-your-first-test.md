@@ -47,6 +47,10 @@ Instalamos `jest`, aquí el enlace de [Jest](https://jestjs.io/docs/getting-star
 ```
 npm install --save-dev jest
 ````
+Para que VS Code pueda autocompletar código de Jest, instalar esta dependencia de npm:
+```
+npm i @types/jest -D
+```
 
 Let's get started by writing a test for a hypothetical function that adds two numbers. First, create a sum.js file:
 ```
