@@ -23,3 +23,6 @@ Términos usados en la industria:
 ### Test Environment
 ![Test Environment](./assets/2-3-in-test.png "Ambiente de Pruebas")
 
+## Gererar Fake Data
+Para generar datos falsos, vamos usar [FakerJs](https://fakerjs.dev/)
+
