@@ -26,3 +26,7 @@ Términos usados en la industria:
 ## Gererar Fake Data
 Para generar datos falsos, vamos usar [FakerJs](https://fakerjs.dev/)
 
+Despues de instalar `FakerJs`, debemos agregar en el `package.json`, dentro de `devDependencies`:
+```
+"@faker-js/faker": "^9.9.0",
+```

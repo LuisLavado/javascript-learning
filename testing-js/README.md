@@ -25,28 +25,13 @@ Prueba toda la funcionalidad de una API con integración de servicios internos u
 
 10. **[Mocking, Stub, doubles](./topics/2-3-mocking-stub-doubles.md)**
 
-18. Mocking
-
-19. Spies
-
-20. Generando Fake Books
-
 ### Integration Test & E2E
-21
-Configurando supertest en el API
-Configurando supertest en el API
-Completado
-22
-Integration Test
-Integration Test
-09:44 minutos
-23
+11. **[Configurando supertest en el API](./topics/3-1-config-supertest.md)**
+12. **[Integration Test](./topics/3-2-integration-test.md)**
+23.
 e2e
-e2e
-20:40 minutos
 UI Test
 24
-UI Test
 UI Test
 10:02 minutos
 Automatizar

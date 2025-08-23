@@ -8,6 +8,7 @@
     "start:dev": "DEBUG=app:* nodemon src/index.js",
     "start:prod": "NODE_ENV=production node src/index.js",
     "test": "jest",
+    "test:e2e": "jest --config ./e2e/jest-e2e.json --forceExit",
     "lint": "eslint src/**",
     "lint:fix": "eslint src/** --fix"
   },
@@ -21,11 +22,13 @@
     "mongodb": "^4.4.1"
   },
   "devDependencies": {
+    "@faker-js/faker": "^9.9.0",
     "@types/jest": "^30.0.0",
     "eslint": "^8.10.0",
     "eslint-config-airbnb-base": "^15.0.0",
     "eslint-plugin-import": "^2.25.4",
     "jest": "^27.5.1",
-    "nodemon": "^2.0.15"
+    "nodemon": "^2.0.15",
+    "supertest": "^7.1.4"
   }
 }
