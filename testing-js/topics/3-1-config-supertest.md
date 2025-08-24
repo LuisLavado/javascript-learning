@@ -29,7 +29,7 @@ En el `package.json`, dentro de `scripts`:
 ```
 
 ## Realazar la prueba
-Para realizar nuestra primer prueba, vamos crear un aarchivo `hello.e2e.js` y escribimos:
+Para realizar nuestra primer prueba, vamos crear un archivo `hello.e2e.js` y escribimos:
 
 ```
 const request = require('supertest');

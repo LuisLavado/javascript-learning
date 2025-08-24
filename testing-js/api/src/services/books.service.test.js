@@ -1,10 +1,6 @@
 const { generateManyBook } = require('../fakes/book.fake');
 const BooksService = require('./books.service');
 
-const fakeBooks = [
-  { _id: 1, name: 'Harry Potter' },
-];
-
 const mockGetAll = jest.fn(); // Es una funcion fantasma que manejaremos.
 
 /**
