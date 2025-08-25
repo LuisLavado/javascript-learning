@@ -27,22 +27,14 @@ Prueba toda la funcionalidad de una API con integración de servicios internos u
 
 ### Integration Test & E2E
 11. **[Configurando supertest en el API](./topics/3-1-config-supertest.md)**
+
 12. **[Integration Test](./topics/3-2-integration-test.md)**
-23.
-e2e
-UI Test
-24
-UI Test
-10:02 minutos
+
+13. **[e2e Test](./topics/3-3-e2e-test.md)**
+
+14. **[UI Test](./topics/3-4-ui-test.md)**
+
 Automatizar
-25
-Unit tests en GitHubActions
-Unit tests en GitHubActions
-13:49 minutos
-26
-E2E en GitHubActions
-E2E en GitHubActions
-08:02 minutos
-27
-¿Quieres más cursos de testing?
-¿Quieres más cursos de testing?
+25. Unit tests en GitHubActions
+26. E2E en GitHubActions
+27. ¿Quieres más cursos de testing?
