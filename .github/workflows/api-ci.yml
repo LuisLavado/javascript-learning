@@ -4,28 +4,28 @@ name: API CI
 on:
   push:
     paths:
-      - "./testing-js/api/**"
+      - "testing-js/api/**"
       - ".github/workflows/api-ci.yml"
 
 defaults:
   run:
-    working-directory: ./testing-js/api
+    working-directory: testing-js/api
 
 jobs:
   unit-test:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout
-        uses: actions/checkout@v2
+        uses: actions/checkout@v4
       - name: Setup Nodejs
-        uses: actions/setup-node@v2
+        uses: actions/setup-node@v4
         with:
-          node-version: 22
+          node-version: 22.x
           cache: "npm"
-          cache-dependency-path: ./testing-js/api/package-lock.json
-      - name: install
+          cache-dependency-path: testing-js/api/package-lock.json
+      - name: Install deps
         shell: bash
         run: npm ci
-      - name: run unit test
+      - name: Run unit tests
         shell: bash
         run: npm run test
