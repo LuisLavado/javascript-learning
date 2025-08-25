@@ -25,39 +25,16 @@ Prueba toda la funcionalidad de una API con integración de servicios internos u
 
 10. **[Mocking, Stub, doubles](./topics/2-3-mocking-stub-doubles.md)**
 
-18. Mocking
-
-19. Spies
-
-20. Generando Fake Books
-
 ### Integration Test & E2E
-21
-Configurando supertest en el API
-Configurando supertest en el API
-Completado
-22
-Integration Test
-Integration Test
-09:44 minutos
-23
-e2e
-e2e
-20:40 minutos
-UI Test
-24
-UI Test
-UI Test
-10:02 minutos
+11. **[Configurando supertest en el API](./topics/3-1-config-supertest.md)**
+
+12. **[Integration Test](./topics/3-2-integration-test.md)**
+
+13. **[e2e Test](./topics/3-3-e2e-test.md)**
+
+14. **[UI Test](./topics/3-4-ui-test.md)**
+
 Automatizar
-25
-Unit tests en GitHubActions
-Unit tests en GitHubActions
-13:49 minutos
-26
-E2E en GitHubActions
-E2E en GitHubActions
-08:02 minutos
-27
-¿Quieres más cursos de testing?
-¿Quieres más cursos de testing?
+25. Unit tests en GitHubActions
+26. E2E en GitHubActions
+27. ¿Quieres más cursos de testing?
