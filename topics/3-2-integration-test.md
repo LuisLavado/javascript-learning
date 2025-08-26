@@ -51,5 +51,5 @@ Para correr nuestra prueba:
 ```
 npm run test:e2e
 ```
-
-
+[<- Previous lesson |](./3-1-config-supertest.md)
+[Next Lesson ->](./3-3-e2e-test.md)

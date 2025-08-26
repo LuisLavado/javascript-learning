@@ -27,7 +27,7 @@ describe('Test for books', () => {
 
   afterAll(async () => {
     await server.close();
-    await database.dropDatabase();
+    database.dropDatabase();
   });
 
   describe('test for [GET] /api/v1/books', () => {

@@ -36,7 +36,7 @@ test('test list / array', () => {
 ```
 
 ## setup / Teardown
-En Jest hay cláusulas para isolar las pruebas, donde un escenario de pruebas no afecte a otro, para ello se agrupan los casos con `describe()`. Teardown se trata de demoler o quitar casos de prueba anteriores para que no afecten en el actual al usar los `hooks`, que son sentencias adicionales según el tiempo de ejecución del grupo o los casos.
+En Jest hay cláusulas para isolar las pruebas, donde un escenario de pruebas no afecte a otro, para ello se agrupan los casos con `describe()`. **`Teardown`** se trata de demoler o quitar casos de prueba anteriores para que no afecten en el actual al usar los `hooks`, que son sentencias adicionales según el tiempo de ejecución del grupo o los casos.
 ```
 // `describe` reune un conjunto de bruebas, mejora la lectura del código y la encapsulación.
 describe('group 1', () => {
@@ -92,3 +92,5 @@ describe('group 1', () => {
   });
 });
 ```
+[<- Previous lesson |](./1-3-static-tests.md)
+[Next Lesson ->](./1-5-setup-implemented.md)
