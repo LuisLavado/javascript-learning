@@ -24,3 +24,6 @@ Son sistemas que te piden agregar pruebas a algo funcional, incluso en paralelo;
 
 ### Clean Architecture
 Este patrón lleva buenas prácticas desde el principio, cada método está bien dividido y con responsabilidades acertadas, es mucho más facil de agregar el set de pruebas.
+
+[<- Previous lesson |](./1-6-types-of-tests.md)
+[Next Lesson ->](./2-1-unit-tests.md)

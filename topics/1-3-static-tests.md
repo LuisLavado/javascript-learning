@@ -59,7 +59,7 @@ npm run lint
 Arreglar errores de Jest
 Para que no nos salte errores cuando usamos nuestras funciones de Jest usamos en el archivo de configuración de .eslint.js la siguiente configuración:
 
-
+```
 module.exports = {
   env: {
     ...
@@ -68,3 +68,7 @@ module.exports = {
   },
   ...
 };
+```
+
+[<- Previous lesson |](./1-2-your-first-test.md)
+[Next Lesson ->](./1-4-assertions.md)

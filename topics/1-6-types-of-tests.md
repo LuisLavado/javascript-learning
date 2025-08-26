@@ -60,3 +60,6 @@ Pruebas estaticas, funcionales y no funcionales.
 Estas pruebas no necesariamente deben estar desde el principio.
 
 NOTA: Hay una nueva área de pruebas No Funcionales que se llama 🐒 Ingeniería del caos, 🐒 su pionero es Netflix. Consiste en desconectar servicios en producción, como por ejemplo, desconectar una BD para ver como reacciona el equipo y establecer soluciones.
+
+[<- Previous lesson |](./1-5-setup-implemented.md)
+[Next Lesson ->](./1-7-methodologies.md)

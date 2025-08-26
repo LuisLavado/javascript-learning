@@ -1,3 +1,19 @@
+**[Curso de Introducción al Testing con JavaScript](./../README.md)**
+
+# Automatizar tests en GitHubActions
+
+En la consola, salimos de `webapp`, y vamos a la raíz del proyecto
+
+```
+cd ..
+mkdir .github
+cd .github
+mkdir workflows
+cd workflows
+touch api-ci.yml
+```
+En `api-ci.yml`:
+```
 name: API CI
 
 # on: [push]
@@ -75,3 +91,6 @@ jobs:
             MONGO_DB_NAME: demo
             MONGO_URL: mongodb://test:test123@mongo-e2e:27017?retryWrites=true&writeConcern=majority
 
+```
+
+[<- Previous lesson](./3-4-ui-test.md)

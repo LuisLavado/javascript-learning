@@ -30,3 +30,5 @@ Despues de instalar `FakerJs`, debemos agregar en el `package.json`, dentro de `
 ```
 "@faker-js/faker": "^9.9.0",
 ```
+[<- Previous lesson |](./2-2-api-project.md)
+[Next Lesson ->](./3-1-config-supertest.md)

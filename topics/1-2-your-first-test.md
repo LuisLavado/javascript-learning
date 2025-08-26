@@ -75,10 +75,11 @@ Add the following section to your package.json:
   }
 }
 ```
-Finally, run yarn test or npm test and Jest will print this message:
+Finally, `run yarn test` or `npm test` and Jest will print this message:
 ```
 PASS  ./sum.test.js
 ✓ adds 1 + 2 to equal 3 (5ms)
 ```
 
-
+[<- Previous lesson |](./1-1-what-is-testing.md)
+[Next Lesson ->](./1-3-static-tests.md)
