@@ -65,3 +65,6 @@ Para correr nuestra prueba:
 ```
 npm run test:e2e
 ```
+
+[<- Previous lesson |](./2-3-mocking-stub-doubles.md)
+[Next Lesson ->](./3-2-integration-test.md)

@@ -59,3 +59,5 @@ describe('Test for Person', () => {
 });
 ```
 
+[<- Previous lesson |](./1-4-assertions.md)
+[Next Lesson ->](./1-6-types-of-tests.md)

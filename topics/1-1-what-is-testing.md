@@ -69,3 +69,5 @@ Todas estas herramientas manejan una sola estructura (de forma), de modo que el 
 ## Enlaces
 
 * [State of JavaScript](https://stateofjs.com/)
+
+[Next Lesson ->](./1-2-your-first-test.md)
